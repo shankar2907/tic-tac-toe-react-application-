@@ -1,0 +1,18 @@
+.block{
+  border: 2px solid;
+  height: 100px;
+  width: 100px;
+  align: center;
+
+
+}
+
+.row{
+  display: flex;
+  
+
+}
+
+.board{
+  padding: 100px;
+}
